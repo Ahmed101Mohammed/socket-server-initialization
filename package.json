@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "name": "socket-server-initialization",
+  "version": "1.0.0",
+  "description": "This is an intilaization for socket server with socket.io package and express.",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmed101Mohammed/socket-server-initialization.git"
+  },
+  "keywords": [
+    "socket.io",
+    "server",
+    "intialization"
+  ],
+  "author": "Ahmed M. Mohamed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ahmed101Mohammed/socket-server-initialization/issues"
+  },
+  "homepage": "https://github.com/Ahmed101Mohammed/socket-server-initialization#readme"
+}
